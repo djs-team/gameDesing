@@ -1,10 +1,15 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.4",
   "uuid": "07c384bc-9a23-4b07-a9ba-9c9387d19e16",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 814,
+  "height": 234,
+  "platformSettings": {},
   "subMetas": {
     "logo_dengdai": {
       "ver": "1.0.4",

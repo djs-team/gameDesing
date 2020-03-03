@@ -1,10 +1,15 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.4",
   "uuid": "411884e8-fb38-4089-b327-bc644f1948df",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 383,
+  "height": 159,
+  "platformSettings": {},
   "subMetas": {
     "btn_enter_room": {
       "ver": "1.0.4",

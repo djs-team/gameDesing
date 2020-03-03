@@ -1,10 +1,15 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.4",
   "uuid": "61d76624-86ec-4fbc-a39b-ddc186b18d4d",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 118,
+  "height": 68,
+  "platformSettings": {},
   "subMetas": {
     "buqiangzhuang": {
       "ver": "1.0.4",
