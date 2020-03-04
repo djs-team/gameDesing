@@ -7,14 +7,7 @@
   ],
   "design-resolution-height": 720,
   "design-resolution-width": 1280,
-  "excluded-modules": [
-    "Geom Utils",
-    "3D",
-    "3D Primitive",
-    "3D Physics/cannon.js",
-    "3D Physics/Builtin",
-    "3D Particle"
-  ],
+  "excluded-modules": [],
   "facebook": {
     "appID": "",
     "audience": {

@@ -1,15 +1,10 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.2.0",
   "uuid": "f6f21419-2191-4ea6-8c60-2988be26077c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 83,
-  "height": 85,
-  "platformSettings": {},
   "subMetas": {
     "room_touxiang": {
       "ver": "1.0.4",

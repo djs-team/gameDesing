@@ -1,15 +1,10 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.2.0",
   "uuid": "de38c825-0d2d-47d2-b3ad-7c1ad1c906c0",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 333,
-  "height": 93,
-  "platformSettings": {},
   "subMetas": {
     "btn_weixin": {
       "ver": "1.0.4",

@@ -1,15 +1,10 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.2.0",
   "uuid": "40ce99a2-0922-48ea-b6d4-b2e1b7c45ff7",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 212,
-  "height": 84,
-  "platformSettings": {},
   "subMetas": {
     "btn_bujiao": {
       "ver": "1.0.4",

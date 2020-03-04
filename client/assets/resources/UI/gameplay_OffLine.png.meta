@@ -1,15 +1,10 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.2.0",
   "uuid": "44699673-03f6-4486-95ae-c6a8048053d9",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 78,
-  "height": 22,
-  "platformSettings": {},
   "subMetas": {
     "gameplay_OffLine": {
       "ver": "1.0.4",

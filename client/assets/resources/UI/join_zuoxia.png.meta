@@ -1,15 +1,10 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.2.0",
   "uuid": "366615ea-a8c2-4714-8495-6528829fef8c",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 190,
-  "height": 90,
-  "platformSettings": {},
   "subMetas": {
     "join_zuoxia": {
       "ver": "1.0.4",

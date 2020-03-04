@@ -1,15 +1,10 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.2.0",
   "uuid": "80e921f7-2ba9-4618-a6a4-a7b30830e708",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 402,
-  "height": 918,
-  "platformSettings": {},
   "subMetas": {
     "youqingTip": {
       "ver": "1.0.4",

@@ -1,15 +1,10 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.2.0",
   "uuid": "b00a4c2a-df75-4127-b2b6-5fa5b19c59cb",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
-  "genMipmaps": false,
-  "packable": true,
-  "width": 62,
-  "height": 42,
-  "platformSettings": {},
   "subMetas": {
     "yuanbaoIcon": {
       "ver": "1.0.4",
